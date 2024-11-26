@@ -1,4 +1,4 @@
 # weirdscratchers
 Scratch-Off Card / gambling game
 
-![](sickdogscratch.png)
+![](/res/sickasbig.png)
